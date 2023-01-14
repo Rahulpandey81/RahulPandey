@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am Working as Senior Software Engineer <br>At TechAhead pvt ltd. Noida.<br><br>In this organization my role as a backend<br>development and cloud server management.
-
+Senior Software Engineer
+Python||NodeJs||MYSQL||MONGO
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulpandey57) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-pandey-93299214b) 
